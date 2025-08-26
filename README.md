@@ -9,7 +9,7 @@
 - 📖 I’m currently CEO of [**Open Energy Transition**](https://openenergytransition.org/) 
 - 🌱 We work on cool [**open-source projects**](https://openenergytransition.org/projects.html) to accelerate the energy transition
 - 👯 We always look for great people that [**join our mission**](https://openenergytransition.org/about-us.html#theory-of-change)
-- 📫 How to reach me: **Gmail: max.parzen@openenergytransition.org**
+- 📫 How to reach me: **max.parzen@openenergytransition.org**
 - 💬 Ask me about anything relating python, or Data.
 
 <br>
